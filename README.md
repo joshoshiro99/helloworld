@@ -1,2 +1,4 @@
 # hello-world
-first github project
+Hello!
+
+My name is Josh and I am an aspiring computer scientist. This is my walkthrough of the github system.
